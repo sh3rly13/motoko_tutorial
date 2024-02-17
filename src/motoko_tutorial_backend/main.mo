@@ -6,7 +6,7 @@ import Hash "mo:base/Hash";
 
 // ToDo Projesi
 
-
+ 
 actor Assistant {
   
   type ToDo = {
